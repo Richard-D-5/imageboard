@@ -28,4 +28,4 @@ This was the first SPA (Single Page Application) I made using a JavaScript frame
 
 ### Preview
 
-
+![](imageboard.gif)
